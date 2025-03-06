@@ -120,7 +120,10 @@ Before you begin, ensure you have the following installed:
     
 3.  Follow the prompts, setting the URL prefix to `https://yourgithubusername.github.io/example`
     
-4.  Choose the default settings unless otherwise required
+4.  Choose the setting as followed
+
+![pelicanQuickstart](pelicanQuickstart)
+
     
 
 **Etter’s Principle:** Static site generators make websites simpler and eliminate the need for CMS database systems.  The fast website load times and minimal security risks together with simple maintenance features make static sites stand out.
