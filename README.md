@@ -122,7 +122,7 @@ Before you begin, ensure you have the following installed:
     
 4.  Choose the setting as followed
 
-![pelicanQuickstart](pelicanQuickstart)
+![pelicanQuickstart](pelicanQuickstart.png)
 
     
 
